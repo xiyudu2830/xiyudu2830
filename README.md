@@ -62,7 +62,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Experience
 
 <details open>
-<summary><b>🚀 Intelligence Cubed — SWE Intern&nbsp;(Nov 2025 – Present)</b></summary>
+<summary><b>🚀 Intelligence Cubed — Software Engineer Intern (Full Stack and Machine Learning)&nbsp;(Nov 2025 – Present)</b></summary>
 <br>
 
 > Node.js · Web3 · PostgreSQL · GCP · Cloudflare · Docker
@@ -96,7 +96,7 @@
 </details>
 
 <details>
-<summary><b>⚡ Genpact — SWE Intern&nbsp;(Mar 2024 – Jun 2024)</b></summary>
+<summary><b>⚡ Genpact — Software Engineer Intern&nbsp;(Mar 2024 – Jun 2024)</b></summary>
 <br>
 
 > C++ · Python · Boost · MySQL · Redis · Tableau · Git
@@ -190,6 +190,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-**Open to Summer 2026 SWE Internships — Backend · Machine Learning · AI Infra · Data Science**
+**Open to Summer 2026 SDE/AI/Data Internships — Backend · Machine Learning · AI Infra · Data Science**
 
 </div>
