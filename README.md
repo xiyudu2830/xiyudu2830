@@ -1,101 +1,57 @@
-# Hi, I'm Xiyu Du 👋
+<div align="center">
 
-🎓 Data Science @ University of Michigan (GPA: 4.0)
-💻 Software Engineer | Backend | AI Infra | Distributed Systems
+# Xiyu Du
 
----
+**Data Science @ University of Michigan · GPA 4.0/4.0**
 
-## 🚀 About Me
+Building things at the intersection of **systems**, **cloud infrastructure**, and **AI**.
 
-* 🔧 Passionate about **distributed systems, cloud infrastructure, and backend engineering**
-* ⚡ Experienced in building **low-latency systems, scalable APIs, and RAG-based AI platforms**
-* 🌐 Interested in **cloud-native systems, databases, and large-scale data infrastructure**
-* 🧠 Strong foundation in **algorithms, systems, and machine learning**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xiyudu)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/xiyudu2830)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:15542312830xyd@gmail.com)
 
----
-
-## 🛠 Tech Stack
-
-**Languages**
-C++ | Python | Go | Java | JavaScript / TypeScript | SQL
-
-**Backend & Systems**
-Node.js | Flask | FastAPI | Django | REST APIs | gRPC
-
-**Cloud & Infrastructure**
-GCP (Cloud Run, Vertex AI, AlloyDB) | Docker | Kubernetes | Redis | CI/CD
-
-**Databases & AI**
-PostgreSQL | MySQL | MongoDB | FAISS | PyTorch | TensorFlow
+</div>
 
 ---
 
-## 💼 Experience
+### What I've Built
 
-### 🧠 Software Engineer Intern @ Intelligence Cubed
-
-* Built **RAG-based Personal AI Agent platform** on GCP with Cloud Run + Vertex AI
-* Designed **vector search infrastructure (pgvector + AlloyDB)** with <200ms latency
-* Created **one-click deployment system** → reduced onboarding from 20 min → 50 sec
-* Developed **Web3 + AI backend**, scaling to **410K users (#1 AI DApp)**
-
----
-
-### 🔬 AI Researcher @ VIDI Lab
-
-* Developed **RESTful APIs (15+ endpoints)** for LLM applications
-* Built **full-stack platform** for media bias analysis (Svelte + FastAPI)
-* Implemented **RAG pipeline with FAISS + Transformers**
-* Improved system latency by **60% via Redis caching**
+| Where | What | Impact |
+|---|---|---|
+| **Intelligence Cubed** — SWE Intern | RAG-based AI Agent platform on GCP; vector search with AlloyDB (pgvector) | **#1 AI DApp** on BNB Chain, **410K users**; sub-200ms semantic retrieval; onboarding 20min → **50sec** |
+| **VIDI Lab** — AI Researcher | Full-stack media bias analysis platform (Svelte + FastAPI); RAG with FAISS + HuggingFace | 15+ RESTful endpoints; **60% latency reduction** via Redis |
+| **Genpact** — SWE Intern | C++ backtesting engine with lock-free queues; order matching simulator | **50K+ ticks/sec**, microsecond latency; MySQL optimization → **6.7x faster** reports |
+| **Kingmile Marine** — Data Scientist | ML forecasting (Random Forest + XGBoost) for structural stress prediction | **87% accuracy**; anomaly reduction **80%**; processing time **3h → 45min** |
 
 ---
 
-### ⚡ Software Engineer Intern @ Genpact
+### Projects
 
-* Built **high-frequency trading backtesting engine in C++**
-* Achieved **50K+ events/sec with microsecond latency**
-* Designed **order matching simulator (exchange-level logic)**
-* Optimized database queries → **6x faster analytics**
+**🔗 Enterprise Service Governance Platform** — Golang microservices with gRPC, PostgreSQL, Docker + Kubernetes. CI/CD with Helm charts. **99.9% uptime**, zero-downtime releases.
 
----
+**🖼 Text-to-Image Generator** — VAE/CVAE + OpenAI CLIP (ViT-B/32) for text-guided image synthesis. Trained on MNIST & CelebA-HQ, deployed via Streamlit.
 
-## 🧩 Projects
-
-### 🏗 Distributed Microservices Platform
-
-* Built **Golang-based microservices system** with gRPC communication
-* Deployed on **Kubernetes with CI/CD pipelines**
-* Implemented **service registry, auth system, and request broker**
-* Achieved **99.9% uptime with zero-downtime deployment**
+**🛒 Second-Hand Trading Platform** — Flask + SQLAlchemy + WebSocket real-time chat. Bcrypt auth, responsive Bootstrap 5 UI.
 
 ---
 
-### 🛒 Second-Hand Trading Platform
+### Tech Stack
 
-* Full-stack app with **Flask + SQLAlchemy + WebSocket**
-* Real-time chat system for buyer-seller interaction
-* Secure authentication with session + bcrypt
-
----
-
-## 🎯 Interests
-
-* Distributed Systems & Storage
-* Cloud Infrastructure (GCP / Kubernetes)
-* Backend Engineering
-* AI Systems (RAG, LLM Infra)
+```
+Languages      C/C++ · Python · Go · Java · TypeScript · SQL · R
+Backend        Node.js · Express · Flask · FastAPI · Django · gRPC · REST
+Cloud/DevOps   GCP (Cloud Run, Vertex AI, AlloyDB) · Docker · K8s · Redis · CI/CD
+AI/Data        PyTorch · TensorFlow · Scikit-learn · FAISS · Pandas
+Databases      PostgreSQL · MySQL · MongoDB · SQLite · Firebase
+```
 
 ---
 
-## 📫 Contact
+<div align="center">
 
-* 📧 Email: [15542312830xyd@gmail.com](mailto:15542312830xyd@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/xiyudu
-* 💻 GitHub: https://github.com/xiyudu2830
+*Open to **Summer 2026 SWE Internships** — Backend · Distributed Systems · AI Infra*
 
----
-
-⭐ *Actively seeking Summer 2026 Software Engineering Internships (Backend / Distributed Systems / Infra)*
+</div>
 
 
 <!--
