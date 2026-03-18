@@ -14,32 +14,17 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Highlights
+## ⚡ Highlights
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/410K+-users-blue?style=for-the-badge" /><br>
-<b>#1 AI DApp</b><br>
-<sub>on BNB Chain</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/50K+-ticks%2Fsec-green?style=for-the-badge" /><br>
-<b>μs Latency</b><br>
-<sub>C++ Trading Engine</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/99.9%25-uptime-orange?style=for-the-badge" /><br>
-<b>Zero-Downtime</b><br>
-<sub>K8s Microservices</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/4.0-GPA-purple?style=for-the-badge" /><br>
-<b>UMich</b><br>
-<sub>Data Science</sub>
-</td>
-</tr>
-</table>
+<div align="center">
+
+```
+ 🏆 #1 AI DApp on BNB Chain          ⚙️ 50K+ ticks/sec · μs latency
+ 👥 410K+ Users                       🔄 99.9% Uptime · Zero-Downtime
+ 🎓 UMich · GPA 4.0/4.0              🚀 20 min → 50 sec Onboarding
+```
+
+</div>
 
 <br>
 
@@ -49,42 +34,46 @@
 <summary><b>🚀 Intelligence Cubed — SWE Intern&nbsp;(Nov 2025 – Present)</b></summary>
 <br>
 
-> RAG-based AI Agent platform on GCP · Vector search with AlloyDB (pgvector) · Web3 + AI backend
+> Node.js · Web3 · PostgreSQL · GCP · Cloudflare · Docker
 
-- Architected **Personal Agent platform** — Cloud Run + Vertex AI for custom knowledge bases
-- Built **vector search infra** achieving **sub-200ms** semantic retrieval via PSC + VPC peering
-- Engineered one-click deploy — onboarding **20 min → 50 sec**
-- Scaled to **#1 AI DApp** on BNB Chain · **410K users**
+- Architected a **RAG-based Personal Agent** platform on Google Cloud, leveraging **Cloud Run** for scalable deployment and **Vertex AI** for embedding to support custom, user-owned knowledge bases
+- Engineered **one-click deployment** for OpenClaw using Cloudflare Workers + Cloud Build, automating API key injection; reduced onboarding from **20+ min → 50 sec**
+- Established high-performance **Vector Search Infrastructure** using AlloyDB (pgvector) with PSC + VPC peering, achieving **sub-200ms** query latency for semantic retrieval
+- Developed Blockchain-integrated backend bridging Web3 wallet with ML-services → **#1 AI DApp** & #6 overall on BNB Chain with **410K users**
 </details>
 
 <details>
 <summary><b>🔬 VIDI Lab — AI Researcher&nbsp;(Oct 2024 – Jun 2025)</b></summary>
 <br>
 
-> Full-stack media bias platform · RAG with FAISS + HuggingFace · Svelte + FastAPI
+> Python · RESTful APIs · Flask · FastAPI · Svelte · TypeScript · HuggingFace · FAISS
 
-- 15+ RESTful endpoints · 1K+ articles processed · **60% latency cut** via Redis
-- RAG pipeline with HuggingFace Transformers + FAISS vector search
-</details>
-
-<details>
-<summary><b>⚡ Genpact — SWE Intern&nbsp;(Mar 2024 – Jun 2024)</b></summary>
-<br>
-
-> C++ backtesting engine · Order matching simulator · MySQL optimization
-
-- Lock-free queues + memory pools → **50K+ ticks/sec**, microsecond latency
-- Database optimization → reports **6.7x faster** (8s → 1.2s)
+- Constructed **RESTful APIs** serving 15+ endpoints for text summarization & LLM Prompt Engineering, processing 1K+ articles with JSON serialization and **Redis caching** → response time **↓60%**
+- Created full-stack research interface using **Svelte/TypeScript** frontend and **FastAPI/Flask** backend with OpenAI API, enabling interactive media bias visualization across political news
+- Executed **RAG** with HuggingFace Transformers + FAISS vector search, enhancing context retrieval for social equity research
 </details>
 
 <details>
 <summary><b>📊 Kingmile Marine — Data Scientist&nbsp;(Jun 2024 – Sep 2024)</b></summary>
 <br>
 
-> ML forecasting · ETL pipeline · Time-series analysis
+> Python (Pandas, NumPy, Scikit-learn) · TensorFlow · R · MATLAB
 
-- Random Forest + XGBoost → **87% prediction accuracy**, equipment downtime **↓40%**
-- ETL pipeline: anomalies **↓80%**, model accuracy **72% → 91%**
+- Conducted **ETL pipeline** processing marine sensor data daily; automated cleaning with Pandas decreased anomalies by **80%**, improved ML accuracy **72% → 91%**
+- Engineered forecasting models (**Random Forest + XGBoost**) for structural stress prediction — **87% accuracy**, equipment downtime **↓40%**
+- Devised Python automation toolkit for statistical analysis & feature engineering on time-series data, reducing manual processing **3h → 45 min** per cycle
+</details>
+
+<details>
+<summary><b>⚡ Genpact — SWE Intern&nbsp;(Mar 2024 – Jun 2024)</b></summary>
+<br>
+
+> C++ · Python · Boost · MySQL · Redis · Tableau · Git
+
+- Developed high-performance market data processing engine in **C++** with lock-free queues + memory pools → **50K+ ticks/sec**, microsecond latency
+- Engineered **order matching simulator** using C++ STL containers (priority_queue, unordered_map) replicating exchange logic for strategy validation against historical order book data
+- Deployed **Redis caching** for reference prices → **3x retrieval speed** for real-time analytics dashboard
+- Designed & optimized **MySQL** schema with indexing for Coca-Cola Japan sales analytics → report gen **8s → 1.2s**
 </details>
 
 <br>
@@ -135,68 +124,34 @@
 
 ## 🧩 Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🏗 Enterprise Service Platform
-Golang microservices · gRPC · PostgreSQL · K8s
-
-`Docker` `Helm` `CI/CD` `99.9% uptime`
-
-Service registry + auth + request broker with zero-downtime releases
-
-</td>
-<td width="50%">
-
-### 🖼 Text-to-Image Generator
-VAE/CVAE + OpenAI CLIP (ViT-B/32)
-
-`PyTorch` `Streamlit` `MNIST` `CelebA-HQ`
-
-Text-guided image synthesis with 512-dim embeddings & adjustable sampling
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 Trading Platform
-Flask + SQLAlchemy + WebSocket
-
-`Real-time Chat` `Bcrypt` `Bootstrap 5`
-
-Full-stack e-commerce with live buyer-seller messaging
-
-</td>
-<td width="50%">
-
-### 🧠 RAG AI Pipeline
-FAISS + HuggingFace + Vertex AI
-
-`Vector Search` `pgvector` `AlloyDB`
-
-Semantic retrieval infrastructure with sub-200ms latency
-
-</td>
-</tr>
-</table>
-
+<details open>
+<summary><b>🏗 Enterprise Service Governance Platform</b>&nbsp;— Golang · PostgreSQL · MongoDB · Kubernetes</summary>
 <br>
 
-## 📊 GitHub Stats
+- Created modular microservices backend in **Golang** — unified service registry, secure auth, **gRPC-based** request brokering, email notifications & logging
+- Constructed **Authentication Service** with PostgreSQL for encrypted credential storage & role-based access control, plus **Broker Service** for intelligent request routing based on dynamic business rules
+- Deployed with **Docker + Kubernetes** (Helm charts), CI/CD pipelines → **99.9% uptime**, zero-downtime releases
+</details>
 
-<div align="center">
+<details>
+<summary><b>🖼 Text-to-Image Generator</b>&nbsp;— PyTorch · OpenAI CLIP · Streamlit</summary>
+<br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=xiyudu2830&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiyudu2830&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+- Developed text-to-image generator using **VAE** and **Conditional VAE (CVAE)** with encoder-decoder architecture & 128-dim latent space
+- Integrated **OpenAI CLIP (ViT-B/32)** for 512-dim text embeddings as conditional inputs, enabling semantic text-guided generation
+- Trained on **MNIST** & **CelebA-HQ** in PyTorch with custom preprocessing & KL divergence regularization
+- Deployed interactive app via **Streamlit** with adjustable sampling parameters for reproducible synthesis
+</details>
 
-<br><br>
+<details>
+<summary><b>🛒 Second-Hand Trading Platform</b>&nbsp;— Flask · SQLAlchemy · SQLite · Bootstrap 5</summary>
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=xiyudu2830&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF" />
-
-</div>
+- Established full-stack e-commerce platform with **Flask** backend & SQLAlchemy ORM, **Flask-Login** + bcrypt auth
+- Integrated real-time messaging via **Flask-SocketIO** (WebSocket) for buyer-seller chat
+- Built responsive UI with **Bootstrap 5** & JavaScript for dynamic image carousels & interactive browsing
+- Designed **SQLite** schema with SQLAlchemy relationships, optimizing queries for favorites & purchase history
+</details>
 
 <br>
 
