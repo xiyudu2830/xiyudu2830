@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Xiyu%20Du&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Systems%20%C2%B7%20Cloud%20Infrastructure%20%C2%B7%20AI&descSize=18&descAlignY=52" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Data+Science+%40+UMich+%7C+GPA+4.0%2F4.0;Backend+%C2%B7+Distributed+Systems+%C2%B7+AI+Infra;Building+%231+AI+DApp+with+410K%2B+Users)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Data+Science+%40+UMich+%7C+GPA+4.0%2F4.0;Backend+%C2%B7+Machine+Learning+%C2%B7+AI+Infra;Building+%231+AI+DApp+with+410K%2B+Users)](https://git.io/typing-svg)
 
 <br>
 
@@ -190,6 +190,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-**Open to Summer 2026 SWE Internships — Backend · Distributed Systems · AI Infra**
+**Open to Summer 2026 SWE Internships — Backend · Machine Learning · AI Infra · Data Science**
 
 </div>
