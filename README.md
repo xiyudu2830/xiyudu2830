@@ -17,12 +17,43 @@
 ## ⚡ Highlights
 
 <div align="center">
+<table>
+<tr>
+<td align="center">
+<picture>
+  <img src="https://img.shields.io/badge/%231_AI_DApp-BNB_Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=white" />
+</picture>
+<br>
+<sub><b>410K+ Users</b></sub>
+</td>
+<td align="center">
+<picture>
+  <img src="https://img.shields.io/badge/50K+_ticks%2Fsec-C++_Engine-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</picture>
+<br>
+<sub><b>μs Latency</b></sub>
+</td>
+<td align="center">
+<picture>
+  <img src="https://img.shields.io/badge/99.9%25_Uptime-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</picture>
+<br>
+<sub><b>Zero-Downtime</b></sub>
+</td>
+<td align="center">
+<picture>
+  <img src="https://img.shields.io/badge/GPA_4.0-UMich-00274C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDNMMSA5bDExIDQgOSAzLjR2NkwxMiAyMWwtOS02LjZWOWw5IDQgOS0zLjQiIGZpbGw9IiNGRkNCMDUiLz48L3N2Zz4=&logoColor=white" />
+</picture>
+<br>
+<sub><b>Data Science</b></sub>
+</td>
+</tr>
+</table>
 
-```
- 🏆 #1 AI DApp on BNB Chain          ⚙️ 50K+ ticks/sec · μs latency
- 👥 410K+ Users                       🔄 99.9% Uptime · Zero-Downtime
- 🎓 UMich · GPA 4.0/4.0              🚀 20 min → 50 sec Onboarding
-```
+<img src="https://img.shields.io/badge/Onboarding_20min→50sec-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Latency_↓60%25-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Anomalies_↓80%25-ML_Pipeline-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Reports_8s→1.2s-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
 </div>
 
