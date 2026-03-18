@@ -62,7 +62,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Experience
 
 <details open>
-<summary><b>🚀 Intelligence Cubed — Software Engineer Intern (Full Stack and Machine Learning)&nbsp;(Nov 2025 – Present)</b></summary>
+<summary><b>🚀 Intelligence Cubed — Software Engineer Intern (Full Stack & Machine Learning)&nbsp;(Nov 2025 – Present)</b></summary>
 <br>
 
 > Node.js · Web3 · PostgreSQL · GCP · Cloudflare · Docker
