@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Xiyu%20Du&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Systems%20%C2%B7%20Cloud%20Infrastructure%20%C2%B7%20AI&descSize=18&descAlignY=52" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Data+Science+%40+UMich+%7C+GPA+4.0%2F4.0;Backend+%C2%B7+Machine+Learning+%C2%B7+AI+Infra;Building+%231+AI+DApp+with+410K%2B+Users)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=SDE+Intern+%40+AWS+%7C+Data+Science+%40+UMich;Backend+%C2%B7+Machine+Learning+%C2%B7+AI+Infra;Event-Driven+Telemetry+for+1M%2B+WorkSpaces;Building+%231+AI+DApp+with+410K%2B+Users;Seeking+2027+New+Grad+SDE%2FAI+Roles)](https://git.io/typing-svg)
 
 <br>
 
@@ -21,6 +21,13 @@
 <tr>
 <td align="center">
 <picture>
+  <img src="https://img.shields.io/badge/1M+_WorkSpaces-AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+</picture>
+<br>
+<sub><b>Real-Time Telemetry</b></sub>
+</td>
+<td align="center">
+<picture>
   <img src="https://img.shields.io/badge/%231_AI_DApp-BNB_Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=white" />
 </picture>
 <br>
@@ -35,13 +42,6 @@
 </td>
 <td align="center">
 <picture>
-  <img src="https://img.shields.io/badge/99.9%25_Uptime-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</picture>
-<br>
-<sub><b>Zero-Downtime</b></sub>
-</td>
-<td align="center">
-<picture>
   <img src="https://img.shields.io/badge/GPA_4.0-UMich-00274C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDNMMSA5bDExIDQgOSAzLjR2NkwxMiAyMWwtOS02LjZWOWw5IDQgOS0zLjQiIGZpbGw9IiNGRkNCMDUiLz48L3N2Zz4=&logoColor=white" />
 </picture>
 <br>
@@ -50,6 +50,9 @@
 </tr>
 </table>
 
+<img src="https://img.shields.io/badge/Sub--200ms_Queries-OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Grounded_GenAI-Bedrock_Claude-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />&nbsp;
+<img src="https://img.shields.io/badge/99.9%25_Uptime-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Onboarding_20min→50sec-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Latency_↓60%25-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Anomalies_↓80%25-ML_Pipeline-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />&nbsp;
@@ -62,7 +65,19 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Experience
 
 <details open>
-<summary><b>🚀 Intelligence Cubed — Software Engineer Intern (Full Stack & Machine Learning)&nbsp;(Nov 2025 – Present)</b></summary>
+<summary><b>☁️ Amazon Web Services (AWS) — Software Development Engineer Intern&nbsp;(Jun 2026 – Sep 2026)</b></summary>
+<br>
+
+> Seattle, WA · DynamoDB · OpenSearch · AWS Lambda · Bedrock · S3 · API Gateway
+
+- Owned the end-to-end design and implementation of an **internal enterprise fleet-monitoring platform**, architecting an event-driven telemetry and ingestion pipeline via **DynamoDB Streams** and **OpenSearch Ingestion** to aggregate sparse health data from **5 cross-account tables** for **1M+** Amazon WorkSpaces (Virtual Desktop) in real time
+- Established and optimized a high-performance fleet query API using **AWS Lambda** and **API Gateway** to front **OpenSearch**, implementing a generic multi-attribute filter specification with **sub-200ms query latency**
+- Engineered a grounded incident-automation framework utilizing **Amazon Bedrock (Claude)** to eliminate repetitive operational toil during **Large-Scale Events (LSEs)**, forcing GenAI prose generation onto **deterministic JSON fact sheets** with automated number verification, preventing hallucinated figures from reaching users
+- Developed a resilient **async bulk-export system** via **Amazon S3 pre-signed URLs** to stream large CSV datasets, avoiding the 6MB Lambda and 10MB API Gateway response limits while maintaining strict PII redaction
+</details>
+
+<details>
+<summary><b>🚀 Intelligence Cubed — Software Engineer Intern (Full Stack & Machine Learning)&nbsp;(Nov 2025 – Apr 2026)</b></summary>
 <br>
 
 > Node.js · Web3 · PostgreSQL · GCP · Cloudflare · Docker
@@ -135,6 +150,9 @@
 
 **Cloud & DevOps**
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -145,7 +163,10 @@
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Bedrock](https://img.shields.io/badge/Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -190,6 +211,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-**Open to Summer 2026 SDE/AI/Data Internships — Backend · Machine Learning · AI Infra · Data Science**
+**Seeking 2027 New Grad Roles (SDE / AI / Data) — Backend · Machine Learning · AI Infra · Data Science**
 
 </div>
