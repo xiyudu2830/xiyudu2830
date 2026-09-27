@@ -68,7 +68,7 @@
 <summary><b>☁️ Amazon Web Services (AWS) — Software Development Engineer Intern&nbsp;(Jun 2026 – Sep 2026)</b></summary>
 <br>
 
-> Seattle, WA · DynamoDB · OpenSearch · AWS Lambda · Bedrock · S3 · API Gateway
+> DynamoDB · OpenSearch · AWS Lambda · Bedrock · S3 · API Gateway
 
 - Owned the end-to-end design and implementation of an **internal enterprise fleet-monitoring platform**, architecting an event-driven telemetry and ingestion pipeline via **DynamoDB Streams** and **OpenSearch Ingestion** to aggregate sparse health data from **5 cross-account tables** for **1M+** Amazon WorkSpaces (Virtual Desktop) in real time
 - Established and optimized a high-performance fleet query API using **AWS Lambda** and **API Gateway** to front **OpenSearch**, implementing a generic multi-attribute filter specification with **sub-200ms query latency**
@@ -77,7 +77,7 @@
 </details>
 
 <details>
-<summary><b>🚀 Intelligence Cubed — Software Engineer Intern (Full Stack & Machine Learning)&nbsp;(Nov 2025 – Apr 2026)</b></summary>
+<summary><b>🚀 Intelligence Cubed — Software Engineer (Full Stack & Machine Learning)&nbsp;(Nov 2025 – Apr 2026)</b></summary>
 <br>
 
 > Node.js · Web3 · PostgreSQL · GCP · Cloudflare · Docker
